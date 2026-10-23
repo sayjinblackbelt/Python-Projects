@@ -1,0 +1,7 @@
+ Nome ,Categoria, Cidade ,Valor,Email
+ Ana Silva ,Vendas, Campinas ,120.50,ana@example.com
+Bruno Lima,Suporte,Santos,,
+Ana Silva,Vendas,Campinas,120.50,ana@example.com
+ Carla Souza ,Financeiro, São Paulo ,85.00,carla@example.com
+Diego Alves,Suporte,Campinas,0,diego@example.com
+,Marketing,Santos,42.75,
