@@ -1,0 +1,6 @@
+date,type,description,category,amount,payment_method
+2026-01-05,Receita,Exemplo de salário,Salário,3500.00,Transferência
+2026-01-06,Despesa,Exemplo de supermercado,Alimentação,245.80,Débito
+2026-01-10,Despesa,Exemplo de transporte,Transporte,85.00,Pix
+2026-02-05,Receita,Exemplo de serviço,Serviços,450.00,Pix
+2026-02-08,Despesa,Exemplo de internet,Moradia,119.90,Crédito
