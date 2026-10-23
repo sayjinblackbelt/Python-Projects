@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "Qual destes tipos é usado para representar texto em Python?",
+    "options": ["int", "str", "bool", "float"],
+    "answer": "str",
+    "explanation": "str é o tipo usado para representar sequências de caracteres."
+  },
+  {
+    "id": 2,
+    "question": "Qual palavra-chave define uma função em Python?",
+    "options": ["func", "function", "def", "make"],
+    "answer": "def",
+    "explanation": "A palavra-chave def inicia a definição de uma função."
+  },
+  {
+    "id": 3,
+    "question": "Qual estrutura é adequada para guardar vários itens em uma sequência mutável?",
+    "options": ["list", "int", "bool", "None"],
+    "answer": "list",
+    "explanation": "Listas armazenam coleções ordenadas e podem ser modificadas."
+  },
+  {
+    "id": 4,
+    "question": "Qual operador verifica se dois valores são iguais?",
+    "options": ["=", "==", "!=", ":="],
+    "answer": "==",
+    "explanation": "O operador == compara valores; = é usado para atribuição."
+  },
+  {
+    "id": 5,
+    "question": "Qual biblioteca padrão permite trabalhar com arquivos JSON?",
+    "options": ["json", "streamlit", "pytest", "random"],
+    "answer": "json",
+    "explanation": "O módulo json da biblioteca padrão lê e escreve dados no formato JSON."
+  }
+]
